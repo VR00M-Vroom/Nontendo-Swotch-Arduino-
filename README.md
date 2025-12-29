@@ -36,4 +36,9 @@ https://www.amazon.com/HiLetgo-SS-12D00-Toggle-Switch-Vertical/dp/B07RTJDW27?sr=
 
 Buzzers - 2x 
 -
-https://www.amazon.com/3V-Active-Buzzer-Continous-Raspberry/dp/B0FN7FHYQM?sr=8-5
+https://www.amazon.com/3V-Active-Buzzer-Continous-Raspberry/dp/B0FN7FHYQM?sr=8-5\
+
+JST Connectors - 1x
+-
+https://www.amazon.com/JST-PH-Connector-Silicone-Cables-Female/dp/B0D7Q9HJLQ?sr=1-10
+
