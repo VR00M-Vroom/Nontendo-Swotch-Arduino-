@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Arduino_Nano,1,Arduino_Nano_v2.x,
+"BZ1, BZ2",Buzzer_12x9.5RM7.6,2,Buzzer,
+D1,LEDRD254W57D500H1070,1,L08R5000Q1,
+"DOWN1, EX1, EX2, LEFT1, MENU1, RIGHT1, SELECT1, UP1",SW_PUSH-12mm_Wuerth-430476085716,8,SW_Push,
+MAINSOCKET2,PinSocket_1x02_P2.54mm_Vertical,1,Conn_01x02_Socket,
+OL1,SSD1306-0.91-OLED-4pin-128x32,1,SSD1306_0.91_OLED,
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,R,
+SW6,SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm,1,SW_SPDT,
