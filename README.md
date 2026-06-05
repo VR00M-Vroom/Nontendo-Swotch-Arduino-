@@ -1,3 +1,11 @@
+# Why?
+The first thing I saw when I joined hackclub was Sprig! this low power Pi based handheld console that was very simple to us, modify and upolad games to, so based on this I wanted to create my own. This led to me creating the Nontendo Swotch, its a handheld thats very easy to build requires a few parts and is based on a unanimous microcontroller the arduino. The games are coded via C++ adn the Arduino IDE.
+ 
+ 
+ 
+ 
+ 
+ 
  # CAD 
 
 <img width="1100" height="788" alt="image" src="https://github.com/user-attachments/assets/d4f07f80-f3b2-4644-b115-dc2bfa4d84d5" />
